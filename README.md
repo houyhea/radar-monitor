@@ -5,7 +5,7 @@
 
 
 效果图：
-![截图](https://raw.githubusercontent.com/houyhea/winform-control-lib/master/control_1.png)
+![截图](https://raw.githubusercontent.com/houyhea/radar-monitor/master/c1.png)
 
-![截图](https://raw.githubusercontent.com/houyhea/winform-control-lib/master/control_2.png)
+![截图](https://raw.githubusercontent.com/houyhea/radar-monitor/master/c2.png)
 
