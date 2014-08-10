@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm
+END
+LeuzeSocketComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/LeuzeSocketComm.h
+END
+RadarCommunicationBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/RadarCommunicationBase.h
+END
+LeuzeSerialComm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/LeuzeSerialComm.cpp
+END
+RadarCommDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/RadarCommDll.cpp
+END
+TcpRadarComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/TcpRadarComm.h
+END
+SCIPRadarComm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/SCIPRadarComm.cpp
+END
+LeuzeSerialComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/LeuzeSerialComm.h
+END
+RadarComm.plg
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/RadarComm.plg
+END
+RadarCommDll.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/RadarCommDll.h
+END
+LeuzeSocketComm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/LeuzeSocketComm.cpp
+END
+RadarComm.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/RadarComm.dsp
+END
+SCIPRadarComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/SCIPRadarComm.h
+END
+RadarCommunicationBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/RadarCommunicationBase.cpp
+END
+TcpRadarComm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/TcpRadarComm.cpp
+END

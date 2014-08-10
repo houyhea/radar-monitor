@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release
+END
+RadarComm.exp
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/RadarComm.exp
+END
+LeuzeSocketComm.obj
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/LeuzeSocketComm.obj
+END
+RadarCommunicationBase.obj
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/RadarCommunicationBase.obj
+END
+TcpRadarComm.obj
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/TcpRadarComm.obj
+END
+LeuzeSerialComm.obj
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/LeuzeSerialComm.obj
+END
+RadarComm.lib
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/RadarComm.lib
+END
+RadarCommDll.obj
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/RadarCommDll.obj
+END
+vc60.idb
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/vc60.idb
+END
+fifo.obj
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/fifo.obj
+END
+SCIPRadarComm.obj
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/SCIPRadarComm.obj
+END
+RadarComm.pch
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/radarproject/!svn/ver/19/%E9%A1%B9%E7%9B%AE%E4%B8%80%E6%9C%9F/%E4%B8%80%E6%9C%9FPC%E7%AB%AF%E8%9E%8D%E5%90%88%E6%8A%A5%E8%AD%A6%E8%BD%AF%E4%BB%B6/tag_RadarProject_release_20100408_1.0/RadarComm/Release/RadarComm.pch
+END
